@@ -1,0 +1,16 @@
+{
+  "name": "package",
+  "type": "library",
+  "description": "Your package description goes here",
+  "keywords": ["relevant","tags","go","here"],
+  "homepage": "https://yourcompany.com",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "test",
+      "email": "<a href="/cdn-cgi/l/email-protection" class="__cf_email__" data-cfemail="8fe1e8faf6eae1e1e7eee1bfb6ece1fbfbcfe8e2eee6e3a1ece0e2">[email protected]</a>",
+      "homepage": "http://test.com",
+      "role": "Developer"
+    }
+  ]
+}
